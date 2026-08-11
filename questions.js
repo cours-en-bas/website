@@ -16,8 +16,8 @@ const QUESTIONS = [
   },
   {
     image: "images/q3.jpg",
-    question: "Question 3 ?",
-    answers: ["reponse3"]
+    question: "je ne te ferais pas l'affront de demander son nom, mais que mange cet animal?",
+    answers: ["des os"]
   },
   {
     image: "images/q4.jpg",
