@@ -36,7 +36,7 @@ const QUESTIONS = [
   },
   {
     image: "images/q7.jpg",
-    question: "Pour terminer, une personne sur cette planète éclipse toutes les autres, et crée en mon coeur des étoiles filantes dignes des plus grandes perséïdes d'août. Comment se nomme-t-elle (selon mon téléphone)?",
+    question: "Pour terminer, une personne sur cette planète éclipse toutes les autres, et crée en mon coeur des étoiles filantes dignes des plus grandes perséides d'août. Comment se nomme-t-elle (selon mon téléphone)?",
     answers: ["jennifleur"]
   }
 ];
