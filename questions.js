@@ -11,8 +11,8 @@ const QUESTIONS = [
   },
   {
     image: "images/q2.jpg",
-    question: "Question 2 ?",
-    answers: ["reponse2"]
+    question: "ça se corse, quel est le nom de ce sommet, surplombant ce beau lac (et bucolique auberge) ?",
+    answers: ["la palette"]
   },
   {
     image: "images/q3.jpg",
