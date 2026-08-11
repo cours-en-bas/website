@@ -31,8 +31,8 @@ const QUESTIONS = [
   },
   {
     image: "images/q6.jpg",
-    question: "Question 6 ?",
-    answers: ["reponse6"]
+    question: "Ah... les Tatzelwürmlis. Leur réputation n'est plus à faire. Néanmoins, ils ne sont pas la seule curiosité présente à Meiringen. A qui est dédié le musée que nous n'avons évidemment pas visité lors de notre passage dans ces contrées?",
+    answers: ["Sherlock holmes"]
   },
   {
     image: "images/q7.jpg",
