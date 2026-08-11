@@ -6,8 +6,8 @@
 const QUESTIONS = [
   {
     image: "images/q1.jpg",
-    question: "Question 1 ?",
-    answers: ["reponse1"]
+    question: "Où a été prise cette photo ?",
+    answers: ["ile d'elbe"]
   },
   {
     image: "images/q2.jpg",
