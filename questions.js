@@ -10,7 +10,7 @@ const QUESTIONS = [
     answers: ["ile d'elbe"]
   },
   {
-    image: "images/q2.jpg",
+    image: "images/q2.png",
     question: "ça se corse, ce bucolique sommet surplombe un merveilleux lac, et une auberge non moins charmante (malgré certains contretemps pouvant se dérouler dans sa salle à manger), comment s'appelle-t-il (le sommet) ?",
     answers: ["la palette"]
   },
@@ -42,4 +42,4 @@ const QUESTIONS = [
 ];
 
 // Image affichée en plein écran une fois toutes les questions réussies
-const FINAL_IMAGE = "images/final.jpg";
+const FINAL_IMAGE = "images/final.png";
