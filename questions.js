@@ -6,12 +6,12 @@
 const QUESTIONS = [
   {
     image: "images/q1.jpg",
-    question: "Où a été prise cette photo ?",
+    question: "Cette photo a été prise dans un lieu chargé d'histoire, qui a vu naître en nous des émotions encore plus fortes aujourd'hui. quel est cet endroit ?",
     answers: ["ile d'elbe"]
   },
   {
     image: "images/q2.jpg",
-    question: "ça se corse, quel est le nom de ce sommet, surplombant ce beau lac (et bucolique auberge) ?",
+    question: "ça se corse, ce bucolique sommet surplombe un merveilleux lac, et une auberge non moins charmante (malgré certains contretemps pouvant se dérouler dans sa salle à manger), comment s'appelle-t-il (le sommet) ?",
     answers: ["la palette"]
   },
   {
@@ -21,13 +21,13 @@ const QUESTIONS = [
   },
   {
     image: "images/q4.jpg",
-    question: "Question 4 ?",
-    answers: ["reponse4"]
+    question: "Un coûteux café pour tarin affiné est cultivé dans la province de Boquete, comment s'appelle cette variété ?",
+    answers: ["geisha"]
   },
   {
     image: "images/q5.jpg",
-    question: "Question 5 ?",
-    answers: ["reponse5"]
+    question: "Vous rappelez-vous des fameuses Tre Cime? quelles belles roches... il existe d'ailleurs trois types de roches, magmatique, sédimentaire, et ... ?",
+    answers: ["métamorphique"]
   },
   {
     image: "images/q6.jpg",
